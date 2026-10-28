@@ -1,0 +1,4 @@
+Learn Java OOP|100|70
+Master Data Structures|100|65
+Build 3 Portfolio Projects|3|2
+Read 10 Tech Books|10|4

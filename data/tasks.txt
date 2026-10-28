@@ -1,0 +1,8 @@
+Complete Java Assignment|High|Pending
+Study DSA|Medium|Completed
+Prepare Project Presentation|High|Completed
+Solve LeetCode Daily Problem|Low|Completed
+Revise Operating Systems|Medium|Completed
+Complete Mini-Project Report|High|Completed
+Read Networking Notes|Low|Pending
+Practice Java Swing Code|High|Pending

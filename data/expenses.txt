@@ -1,0 +1,5 @@
+Lunch|Food|150.0
+Bus|Transport|40.0
+Book|Education|300.0
+Coffee & Snacks|Food|90.0
+Backpack|Shopping|550.0
